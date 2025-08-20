@@ -28,7 +28,8 @@ Then look for the file :
 This repository demonstrates a **Continuous Integration (CI) pipeline** implementation using AWS services integrated with Bitbucket, SonarCloud, Maven, and S3.
 
 ## 📌 Architecture Diagram
-![Architecture](images/architecture.png)
+![Architecture](images/ci-aws-1.png)
+![Architecture](images/ci-aws-2.png)
 
 ## 🚀 Workflow Explanation
 1. **Clone the repository to Bitbucket** → Source code is pushed to Bitbucket.
